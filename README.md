@@ -60,6 +60,3 @@ Hugging Face Models: https://huggingface.co/models
 
 Project Gutenberg: https://www.gutenberg.org/
 
-Hugging Face Models: https://huggingface.co/models
-
-Project Gutenberg: https://www.gutenberg.org/
